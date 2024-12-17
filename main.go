@@ -26,7 +26,7 @@ SOFTWARE.
 
 import (
 	"fmt"
-	"github.com/ericfialkowkski/magic8ball/magic8ball"
+	"github.com/ericfialkowkski/magic8ball/internal"
 )
 
 func main() {
